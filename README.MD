@@ -13,9 +13,9 @@
 **오랜 시간 팀 안에서 호흡을 맞추며 쌓아온 협업 감각은 개발을 하는 지금도 큰 강점이 되고 있으며,** 더 나은 코드와 더 나은 결과를 위해 끈기 있게 고민하는 편입니다.  
 백엔드와 프론트엔드를 함께 이해하며, 서비스 전체를 넓게 볼 수 있는 개발자로 성장하고자 합니다.
 
-> 💿 데이터 분석 도구와 사용법을 숙지하여 핵심 인사이트에 접근할 수 있습니다.  
-> 💿 OpenAI API 등 외부 API를 활용한 서비스 개발 경험이 있습니다.  
-> 💿 인문·사회학적 사고를 개발에 녹여 사용자 관점의 결과를 도출해 낼 수 있습니다.
+> 🚀 더 읽기 쉽고 유지보수하기 좋은 코드를 작성하려고 노력합니다.  
+> 🚀 외부 API를 서비스에 연결하며 기능을 확장하는 과정에 흥미를 느낍니다.  
+> 🚀 책임감 있는 태도와 원활한 소통을 바탕으로 협업하는 개발자를 지향합니다.
 
 <br>
 
@@ -93,7 +93,7 @@
 
 ## 🚀 Projects
 
-### 📌 맛조은테이블 — 맛집 리뷰 플랫폼
+### 📌 망머샵(망한 머리를 살리는 헤어샵) — 1인 헤어샵을 위한 예약 사이트
 
 <table>
   <tr>
@@ -102,26 +102,26 @@
   </tr>
   <tr>
     <td align="center"><b>인원</b></td>
-    <td>3명 (팀 프로젝트)</td>
+    <td>4명 (팀 프로젝트)</td>
   </tr>
   <tr>
     <td align="center"><b>역할</b></td>
-    <td>팀장 — 프로젝트 총괄, 게시판 기능 구현, DB 연동, 문서 작성</td>
+    <td>팀원 — 회원가입 및 예약페이지 UI 및 백엔드 설계</td>
   </tr>
   <tr>
     <td align="center"><b>GitHub</b></td>
-    <td><a href="https://github.com/passtal/MSA15_Mini1">📂 Repository</a></td>
+    <td><a href="https://github.com/hyunsookimm/MSA15_mini2_final.git">📂 Repository</a></td>
   </tr>
 </table>
 
-> 대한민국 모든 맛집이 한 곳에! 카테고리별 탐색 + 실사용자 리뷰 기반 **맛집 리뷰 플랫폼**
+> 대한민국 모든 미용실이 한 곳에! 실사용자 리뷰 기반 **미용실 예약 사이트**
 
 **주요 구현 기능**
-- 🍴 **카테고리별 맛집 탐색** — 한식/중식/일식/양식 필터링 서블릿
-- 📝 **리뷰 게시판** — 리뷰 CRUD + 평점 + 맛집 연동
+- 🍴 **원하는 날짜, 시간에 맞춰 예약** 
+- 📝 **리뷰 게시판** — 리뷰 CRUD + 평점 + 미용실 연동
 - 🔐 **자동 로그인** — 쿠키 + 토큰 기반 Remember Me 필터
-- 👤 **회원 시스템** — 일반/사장님 회원가입 + 세션 기반 인증
-- 🗺️ **맛집 지도** — 위치 기반 맛집 표시
+- 👤 **회원 시스템** — 일반/디자이너 회원가입 + 세션 기반 인증
+- 🗺️ **미용실 지도** — 위치 기반 미용실 표시
 
 <div align="left">
   <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -194,7 +194,7 @@
   </tr>
   <tr>
     <td align="center"><b>GitHub</b></td>
-    <td><a href="https://github.com/passtal/Durudurub">📂 Repository</a></td>
+    <td><a href="https://github.com/helloOa/Durudurub">📂 Repository</a></td>
   </tr>
 </table>
 
@@ -225,9 +225,9 @@
 ## 📚 Certifications
 
 <div align="left">
-  <img src="https://img.shields.io/badge/정보처리기사-0066CC?style=for-the-badge">
+  <!-- <img src="https://img.shields.io/badge/정보처리기사-0066CC?style=for-the-badge">
   <img src="https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge">
-  <img src="https://img.shields.io/badge/웹디자인기능사-FF6B35?style=for-the-badge">
+  <img src="https://img.shields.io/badge/웹디자인기능사-FF6B35?style=for-the-badge"> -->
 </div>
 
 <br>

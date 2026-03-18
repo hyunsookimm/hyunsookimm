@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요! 풀스택 개발자 **최영우**입니다.
+# 👋 안녕하세요! 풀스택 개발자 **김현수**입니다.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=24&duration=3000&pause=1000&color=00A651&center=true&vCenter=true&random=false&width=520&lines=%ED%95%98%EB%A3%A8%ED%95%98%EB%A3%A8+%EB%B0%9C%EC%A0%84%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;Clean+Code+%7C+User-Centric+Thinking;Backend+%2B+Frontend+%3D+Full+Stack)](https://git.io/typing-svg)
 
@@ -8,10 +8,10 @@
 
 <br>
 
-클린 코드의 원칙을 중요하게 생각하며, 백엔드 아키텍처 설계와 더불어 사용자 친화적인 풀스택 개발 경험을 넓혀가고 있습니다.
+꾸준함과 책임감, 그리고 끝까지 해내는 태도를 바탕으로 개발을 배우고 있는 개발자입니다.
 
-사회학 전공 출신으로, 여타 개발자들이 놓치기 쉬운 **프로젝트의 목적과 그 목적성에 맞게 탐구하는 방법**을 알고 있는 것이 저의 장점입니다.
-부드러운 성격으로 어느 조직에서나 뛰어난 적응력을 보이며, 팀원들과의 소통과 협업을 통해 긍정적인 영향을 주고 싶습니다.
+**오랜 시간 팀 안에서 호흡을 맞추며 쌓아온 협업 감각은 개발을 하는 지금도 큰 강점이 되고 있으며,** 더 나은 코드와 더 나은 결과를 위해 끈기 있게 고민하는 편입니다.  
+백엔드와 프론트엔드를 함께 이해하며, 서비스 전체를 넓게 볼 수 있는 개발자로 성장하고자 합니다.
 
 > 💿 데이터 분석 도구와 사용법을 숙지하여 핵심 인사이트에 접근할 수 있습니다.  
 > 💿 OpenAI API 등 외부 API를 활용한 서비스 개발 경험이 있습니다.  
@@ -26,7 +26,7 @@
 | 기간 | 내용 |
 |:---:|:---|
 | 2025.10 ~ 2026.04 | **더조은컴퓨터아카데미** — MSA 기반 Full-Stack 개발자 양성과정 (ALOHA CLASS) |
-| 졸업 | **중앙대학교** 사회학과 |
+| 2025.03~ | **서울 사이버 대학교** 컴퓨터 공학과 |
 
 <br>
 
@@ -147,11 +147,11 @@
   </tr>
   <tr>
     <td align="center"><b>역할</b></td>
-    <td>팀원 (메인 발표 및 개발) — AI 검색 REST API, 게시판 CRUD, DB 설계·정규화, ERD 작성</td>
+    <td>팀원 — 로그인 및 회원가입 UI 및 백엔드 설계, 각종 정의서 작성 및 검증, 유저 데이터에 권한 부여 및 패스 구현  </td>
   </tr>
   <tr>
     <td align="center"><b>GitHub</b></td>
-    <td><a href="https://github.com/passtal/TeamProject1">📂 Repository</a></td>
+    <td><a href="https://github.com/hyunsookimm/TeamProject1">📂 Repository</a></td>
   </tr>
 </table>
 

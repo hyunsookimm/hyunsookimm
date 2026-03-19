@@ -244,7 +244,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=passtal&theme=transparent&hide_border=true&ring=00A651&fire=00A651&currStreakLabel=00A651&sideLabels=333333&dates=999999" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyunsookimm&theme=transparent&hide_border=true&ring=00A651&fire=00A651&currStreakLabel=00A651&sideLabels=333333&dates=999999" height="160" alt="GitHub Streak" />
 </div>
 
 <br>

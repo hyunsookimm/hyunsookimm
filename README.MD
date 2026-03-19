@@ -106,7 +106,7 @@
   </tr>
   <tr>
     <td align="center"><b>역할</b></td>
-    <td>팀원 — 회원가입 및 예약페이지 UI 및 백엔드 설계</td>
+    <td> — 회원가입 및 예약페이지 UI 및 백엔드 설계</td>
   </tr>
   <tr>
     <td align="center"><b>GitHub</b></td>
@@ -117,7 +117,7 @@
 > 대한민국 모든 미용실이 한 곳에! 실사용자 리뷰 기반 **미용실 예약 사이트**
 
 **주요 구현 기능**
-- 🍴 **원하는 날짜, 시간에 맞춰 예약** 
+- ⏰ **원하는 날짜, 시간에 맞춰 예약** 
 - 📝 **리뷰 게시판** — 리뷰 CRUD + 평점 + 미용실 연동
 - 🔐 **자동 로그인** — 쿠키 + 토큰 기반 Remember Me 필터
 - 👤 **회원 시스템** — 일반/디자이너 회원가입 + 세션 기반 인증
@@ -147,7 +147,7 @@
   </tr>
   <tr>
     <td align="center"><b>역할</b></td>
-    <td>팀원 — 로그인 및 회원가입 UI 및 백엔드 설계, 각종 정의서 작성 및 검증, 유저 데이터에 권한 부여 및 패스 구현  </td>
+    <td> — 로그인 및 회원가입 UI 및 백엔드 설계, 각종 정의서 작성 및 검증, 유저 데이터에 권한 부여 및 패스 구현  </td>
   </tr>
   <tr>
     <td align="center"><b>GitHub</b></td>
@@ -190,7 +190,7 @@
   </tr>
   <tr>
     <td align="center"><b>역할</b></td>
-    <td>게시판/AI 검색 REST API, DB 수정, 메인 발표, 문서화 및 코드 리팩토링</td>
+    <td>로그인,회원가입/ Jwt토큰 방식으로 전환 및 UI REACT방식으로 전환</td>
   </tr>
   <tr>
     <td align="center"><b>GitHub</b></td>
@@ -254,13 +254,10 @@
 ## 📫 Contact
 
 <div align="center">
-  <a href="mailto:orbiyoung@gmail.com">
-    <img src="https://img.shields.io/badge/orbiyoung@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:khsoo0512@gmail.com">
+    <img src="https://img.shields.io/badge/khsoo0512@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="mailto:passtal@cau.ac.kr">
-    <img src="https://img.shields.io/badge/passtal@cau.ac.kr-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-  </a>
-  <a href="https://github.com/passtal">
+  <a href="https://github.com/hyunsookimm">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
@@ -268,5 +265,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=passtal&color=00A651&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=hyunsookimm&color=00A651&style=flat-square&label=Profile+Views" alt="Profile Views">
 </div>

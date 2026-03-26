@@ -29,8 +29,8 @@
 | 2025.03~ | **서울 사이버 대학교** 컴퓨터 공학과 |
 
 <tr>
-    <td align="center"><b>Notion Portfolio</b></td>
-    <td><a href="https://fullstack-hyunsoo.notion.site/Full-Stack-Developer-3287b709464f80d6b069c3155c24b6df">📂 Notion Portfolio</a></td>
+    <td align="center"><b></b></td>
+    <td><a href="https://fullstack-hyunsoo.notion.site/Full-Stack-Developer-3287b709464f80d6b069c3155c24b6df">📂Notion Portfolio</a></td>
   </tr>
 
 <br>

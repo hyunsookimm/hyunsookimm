@@ -28,6 +28,11 @@
 | 2025.10 ~ 2026.04 | **더조은컴퓨터아카데미** — MSA 기반 Full-Stack 개발자 양성과정 (ALOHA CLASS) |
 | 2025.03~ | **서울 사이버 대학교** 컴퓨터 공학과 |
 
+<tr>
+    <td align="center"><b>Notion Portfolio</b></td>
+    <td><a href="https://fullstack-hyunsoo.notion.site/Full-Stack-Developer-3287b709464f80d6b069c3155c24b6df">📂 Notion Portfolio</a></td>
+  </tr>
+
 <br>
 
 ---
